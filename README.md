@@ -15,14 +15,3 @@
 3. Follow along with my demonstration
 
 ## Assignment
-1. Open ```assignment.html``` and ```assignment.css``` to edit
-2. Click the Go to assignment link to navigate to the page
-3. Use ```:hover```, ```:active```, ```::before``` and ```::after``` along with other CSS properties to style the webpage to look like the images below.  
-Normal:  
-![](sc1.png)  
-When price is hovered:  
-![](sc2.png)  
-When Buy Now button is hovered:  
-![](sc3.png)  
-When Buy Now button is clicked:  
-![](sc4.png) 
