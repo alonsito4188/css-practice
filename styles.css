@@ -14,7 +14,7 @@ h1 {
     padding: 100px;
     margin-left: auto;
     margin-right: auto;
-    border: 10px dotted orange;
+    border: 20px dotted orange;
 }
 
 .main div {
@@ -44,7 +44,7 @@ h1 {
     content: "☠️";
 }
 
-#s4:active::after {
+#s4:hover::after {
     content: "👻";
 }
 

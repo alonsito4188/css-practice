@@ -15,3 +15,12 @@
 3. Follow along with my demonstration
 
 ## Assignment
+I've given you the HTML to create a little Halloween game.
+1. First, use CSS to style it to look like the screenshot below. You shouldn't modify the HTML at all, only CSS.  
+![](screenshot1.png)
+2. Next, use ```:hover``` to make it look like this when each jack-o-lantern is hovered by the mouse.  
+![](screenshot2.png)
+3. Then, use ```:active::after``` to make it so a ☠️ appears when each jack-o-lantern is clicked.  
+![](screenshot3.png)
+4. Finally, use ```:active::after``` to make it so a 👻 appears when *one* of the jack-o-lanterns is clicked. You pick which one.  
+![](screenshot4.png)
