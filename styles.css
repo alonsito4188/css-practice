@@ -7,44 +7,7 @@ h1 {
     color: white;
     font-size: 60px;
 }
-
+/* Start here by styling the main div section */
 .main {
-    width: fit-content;
-    background-color: beige;
-    padding: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    border: 20px dotted orange;
+    
 }
-
-.main div {
-    margin: 40px;
-}
-
-.square {
-    border: 2px solid transparent;
-    text-align: center;
-    font-size: 60px;
-    cursor: pointer;
-    padding: 8px;
-    border-radius: 8px;
-    margin: 40px;
-}
-
-.square:hover {
-    background-color: rgb(255, 211, 129);
-    border: 2px solid orange;
-}
-
-.square::after {
-    content: "??";
-}
-
-.square:active::after {
-    content: "☠️";
-}
-
-#s4:hover::after {
-    content: "👻";
-}
-
