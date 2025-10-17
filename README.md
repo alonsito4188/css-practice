@@ -1,12 +1,12 @@
 # css-card
 
 ## Learning Target
-- I am learning how to use special CSS selectors
+- I am practicing using CSS box-model properties and special selectors
 
 ## Success Criteria
-- I can use ```:hover``` and ```:active``` to apply styles when an element is hovered or clicked
-- I can use ```::before``` and ```::after``` to insert content before/after an element
+- I can set box model properties such as ```padding```, ```margin```, and ```border```
 - I can combine ```:hover``` or ```:active``` with ```::before``` or ```::after``` to insert content when an element is hovered or clicked
+- I can use CSS to create a little Halloween themed game
 
 
 ## Directions
