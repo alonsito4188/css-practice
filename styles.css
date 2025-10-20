@@ -4,10 +4,14 @@ body {
 
 h1 {
     text-align: center;
-    color: white;
+    color: beige;
     font-size: 60px;
 }
 /* Start here by styling the main div section */
 .main {
-    
+    background-color: tan;
+    width: fit-content;
+    padding: 50px;
+    border-radius: 10px;
+font-size: 100px;
 }
